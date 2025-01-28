@@ -3,7 +3,6 @@ import java.io.*;
 import java.net.*;
 import java.security.KeyStore;
 import javax.net.ssl.KeyManagerFactory;
-import javax.net.ssl.TrustManagerFactory;
 
 /**
  * Clase principal que implementa un servidor SSL seguro.
